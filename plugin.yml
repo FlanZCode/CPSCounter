@@ -4,4 +4,8 @@ version: 1.0.0
 main: FlanZCode\CPSCounter\Main
 api: 5.17.1
 src-namespace-prefix: FlanZCode\CPSCounter
+
+permissions:
+  cps.use:
+    default: true
 ...
